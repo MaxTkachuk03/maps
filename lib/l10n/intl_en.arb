@@ -1,0 +1,14 @@
+{
+    "signIn" : "Google Sign In",
+    "splashScreenText" : "YoUr MaPs",
+    "profile" : "Profile",
+    "exit" : "Exit",
+    "map" : "Map",
+    "email" : "email",
+    "name" : "name",
+    "back" : "Back",
+    "apiKey" : "AIzaSyDwHiF3x3w50wSBYKWtnmrXUfg6NCkl0ys",
+    "info" : "Info",
+    "route" : "Route",
+    "change" : "Change marker color" 
+}
